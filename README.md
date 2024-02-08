@@ -1,4 +1,4 @@
-# Boutons de la page produit à rendre le 14/02
+# Boutons de la page produit à rendre le 22/02
 
 Vous ajouterez ces fonctionnalités quand on clique sur les boutons de choix de couleurs, :
 
@@ -6,7 +6,7 @@ Vous ajouterez ces fonctionnalités quand on clique sur les boutons de choix de 
 - **[1 point]** le filtre de la miniature active prend la couleur du bouton,
 - **[1 point]** le bouton sur lequel on clique devient le bouton actif et c’est lui qui est cerclé d’un contour blanc.
 
-Pour le rendu le 14/02 :
+Pour le rendu le 22/02 :
 
 - **[1 point]** vous déposerez votre travail sur ce GitHub Classroom : <https://classroom.github.com/a/1_pMwwGD>,
 - **[1 point]** vous indiquerez l’URL du site Netlify dans le `README.md` du dépôt GitHub Classroom.
